@@ -30,7 +30,7 @@ AI apps that redesign and visualize interior spaces from a photo.
 AI tools for visualizing gardens, yards, and outdoor spaces.
 
 - **[FlorAI](https://www.floraiapp.com)** — AI garden designer. Transform your yard photo into landscaped designs across multiple styles (modern, cottage, zen, tropical). [iOS](https://apps.apple.com/app/id6761795586) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aigardendesign)
-- - **[EasyGardenAI](https://www.easygarden.ai)** — web based AI garden designer. Transform your garden within seconds using AI.
+- **[EasyGardenAI](https://www.easygarden.ai)** — web based AI garden designer. Transform your garden within seconds using AI.
 
 ## AI Headshots & Portraits
 
@@ -43,7 +43,7 @@ Apps that generate professional headshots from selfies.
 AI apps for generating short video clips from text or images.
 
 - **[VIBE](https://www.vibeclips.ai)** — AI video generator for short clips. Text-to-video and image-to-video in your pocket. [iOS](https://apps.apple.com/app/id6449935919) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aivideogenerator)
-- - **[AI Video Generator](https://www.vibeaiapp.com)** — AI video generator using Seedance 2.0, Sora 2, Veo 3.1, Kling AI, Happy Horse, Hailuo and more!
+- **[AI Video Generator](https://www.vibeaiapp.com)** — AI video generator using Seedance 2.0, Sora 2, Veo 3.1, Kling AI, Happy Horse, Hailuo and more!
 
 ## Music Generation
 
