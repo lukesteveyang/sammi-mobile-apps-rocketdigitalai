@@ -55,8 +55,8 @@ AI tools that compose original music and beats.
 
 AI apps for identifying birds, fish, plants, and other wildlife from a photo.
 
-- **[Bird Scanner]** — Instant bird identification from a photo. Identifies 10,000+ species with detailed info on habitat, diet, and calls. [iOS](https://apps.apple.com/app/id6748410037) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aibirdscanner)
-- **[Fish Scanner]** — Identify fish species from a photo. Covers freshwater and saltwater species worldwide. [iOS](https://apps.apple.com/app/id6751872260) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aifishidentifier)
+- **Bird Scanner** — Instant bird identification from a photo. Identifies 10,000+ species with detailed info on habitat, diet, and calls. [iOS](https://apps.apple.com/app/id6748410037) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aibirdscanner)
+- **Fish Scanner** — Identify fish species from a photo. Covers freshwater and saltwater species worldwide. [iOS](https://apps.apple.com/app/id6751872260) · [Android](https://play.google.com/store/apps/details?id=com.rocketdigitals.aifishidentifier)
 
 
 ## Contributing
